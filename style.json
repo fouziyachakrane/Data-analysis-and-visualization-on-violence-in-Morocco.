@@ -1,0 +1,36 @@
+{
+   "MainWindow" : [
+    {
+       "tittle": "VIOLENCE" ,
+       "icon": ":/icones/icones/analytics.png",
+
+       "frameless": true,
+       "transluscentBg":true,
+       "sizeGrip":"size_grip",
+       "shadow" : [
+           {
+            "color": "#000",
+            "blurRadius": 20,
+            "yOffset": 0, 
+            "centralWidget": "centralWidget"
+           }
+        ],
+    
+       "navigation" : [
+           {
+              "minimize":"minimize window_button",
+              "close": "close _window _button",
+              "restore":  [
+                {  
+                "buttonName": "restore window button",
+                "normalIcon": "/icons/icons/open is full.png",
+                "maximizedIcon": "/icon/icon/close full screen.png"
+                }
+             ],
+             "moveWindow": "header_frame",
+             "titleBar": "header_frame"
+            }
+        ]
+    }
+]
+}

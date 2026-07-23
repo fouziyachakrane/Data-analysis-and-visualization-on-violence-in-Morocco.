@@ -1,0 +1,1001 @@
+Lieu,Region,Age,Etat,Type_activite,Contexte,Type_violence,Niveau_scolaire
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,35-44,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,45-54,Veuve,Femme au foyer,Conjugale,Sexuelle,Primaire
+Rurale,Fès-Meknès,35-44,Mariée,Active occupée,Hors conjugale,Physique,Secondaire collégial
+Urbain,Fès-Meknès,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Souss-Massa,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Marrakech-Safi,25-34,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Rurale,Marrakech-Safi,25-34,Célibataire,Active occupée,Conjugale,Physique,Secondaire collégial
+Rurale,Marrakech-Safi,15-24,Mariée,Femme au foyer,Hors conjugale,Électronique,Secondaire collégial
+Urbain,Guelmim-Oued Noun,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,35-44,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,25-34,Mariée,Femme au foyer,Conjugale,Physique,Supérieur
+Urbain,Drâa-Tafilalet,45-54,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Souss-Massa,45-54,Mariée,Elève / étudiante,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Urbain,Marrakech-Safi,25-34,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Oriental,25-34,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Fès-Meknès,35-44,Mariée,Femme au foyer,Conjugale,Physique,Supérieur
+Urbain,Fès-Meknès,45-54,Veuve,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Souss-Massa,35-44,Mariée,Elève / étudiante,Conjugale,Physique,Sans niveau
+Urbain,Souss-Massa,15-24,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,15-24,Mariée,Active occupée,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Célibataire,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Rurale,Casablanca-Settat,15-24,Veuve,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,25-34,Veuve,Femme au foyer,Conjugale,Sexuelle,Supérieur
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Oriental,45-54,Divorcée,Active occupée,Conjugale,Psychologique,Primaire
+Rurale,Rabat-Salé-Kénitra,25-34,Célibataire,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Fès-Meknès,25-34,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Marrakech-Safi,55-74,Veuve,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,25-34,Célibataire,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Marrakech-Safi,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Drâa-Tafilalet,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Célibataire,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,55-74,Mariée,Active occupée,Hors conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,35-44,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Marrakech-Safi,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Fès-Meknès,45-54,Célibataire,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,55-74,Célibataire,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Fès-Meknès,55-74,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,35-44,Célibataire,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,55-74,Divorcée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,45-54,Veuve,Active occupée,Conjugale,Physique,Secondaire collégial
+Urbain,Marrakech-Safi,15-24,Divorcée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Drâa-Tafilalet,25-34,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,55-74,Mariée,Elève / étudiante,Conjugale,Psychologique,Sans niveau
+Urbain,Oriental,55-74,Mariée,Elève / étudiante,Conjugale,Psychologique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,25-34,Célibataire,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Casablanca-Settat,55-74,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,15-24,Mariée,Active occupée,Conjugale,Électronique,Primaire
+Urbain,Drâa-Tafilalet,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,55-74,Célibataire,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Urbain,Béni Mellal-Khénifra,55-74,Mariée,Active occupée,Hors conjugale,Psychologique,Primaire
+Rurale,Fès-Meknès,15-24,Mariée,Active occupée,Hors conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Célibataire,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Guelmim-Oued Noun,35-44,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Active occupée,Hors conjugale,Physique,Supérieur
+Urbain,Souss-Massa,25-34,Célibataire,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,35-44,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Veuve,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Drâa-Tafilalet,35-44,Mariée,Elève / étudiante,Hors conjugale,Psychologique,Primaire
+Rurale,Marrakech-Safi,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Marrakech-Safi,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,15-24,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Supérieur
+Rurale,Marrakech-Safi,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Oriental,35-44,Mariée,Chômeur,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Laâyoune-Sakia Al Hamra,15-24,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Primaire
+Rurale,Fès-Meknès,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Supérieur
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Conjugale,Physique,Supérieur
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Tanger-Tétouan-Al Hoceima,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Oriental,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Marrakech-Safi,55-74,Veuve,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Célibataire,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Chômeur,Conjugale,Psychologique,Primaire
+Urbain,Ed Dakhla-Oued Ed Dahab,35-44,Divorcée,Active occupée,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Marrakech-Safi,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Fès-Meknès,25-34,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Marrakech-Safi,45-54,Mariée,Elève / étudiante,Hors conjugale,Psychologique,Supérieur
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Rurale,Fès-Meknès,15-24,Veuve,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,45-54,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,15-24,Mariée,Active occupée,Hors conjugale,Psychologique,Sans niveau
+Urbain,Souss-Massa,45-54,Mariée,Active occupée,Conjugale,Sexuelle,Supérieur
+Rurale,Béni Mellal-Khénifra,25-34,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Primaire
+Rurale,Tanger-Tétouan-Al Hoceima,35-44,Célibataire,Active occupée,Hors conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,25-34,Divorcée,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Marrakech-Safi,35-44,Mariée,Active occupée,Conjugale,Physique,Secondaire collégial
+Rurale,Casablanca-Settat,35-44,Veuve,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Fès-Meknès,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,55-74,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,45-54,Mariée,Active occupée,Conjugale,Psychologique,Primaire
+Urbain,Souss-Massa,55-74,Célibataire,Active occupée,Conjugale,Physique,Primaire
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Sexuelle,Supérieur
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Urbain,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Active occupée,Conjugale,Physique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Drâa-Tafilalet,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Drâa-Tafilalet,15-24,Célibataire,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Rurale,Marrakech-Safi,15-24,Veuve,Active occupée,Conjugale,Psychologique,Primaire
+Rurale,Casablanca-Settat,15-24,Mariée,Elève / étudiante,Conjugale,Électronique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,55-74,Mariée,Elève / étudiante,Conjugale,Psychologique,Sans niveau
+Urbain,Béni Mellal-Khénifra,35-44,Mariée,Active occupée,Conjugale,Sexuelle,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Marrakech-Safi,15-24,Célibataire,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Oriental,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Oriental,55-74,Mariée,Chômeur,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Fès-Meknès,55-74,Mariée,Femme au foyer,Hors conjugale,Électronique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Oriental,35-44,Célibataire,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Guelmim-Oued Noun,35-44,Divorcée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Souss-Massa,15-24,Mariée,Active occupée,Hors conjugale,Électronique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,15-24,Célibataire,Elève / étudiante,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Drâa-Tafilalet,35-44,Mariée,Active occupée,Conjugale,Physique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Hors conjugale,Électronique,Sans niveau
+Urbain,Drâa-Tafilalet,55-74,Veuve,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Marrakech-Safi,35-44,Célibataire,Chômeur,Hors conjugale,Physique,Sans niveau
+Rurale,Fès-Meknès,15-24,Veuve,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Oriental,15-24,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Urbain,Fès-Meknès,45-54,Mariée,Elève / étudiante,Hors conjugale,Sexuelle,Secondaire collégial
+Rurale,Fès-Meknès,45-54,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,35-44,Mariée,Active occupée,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Marrakech-Safi,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Oriental,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Oriental,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,25-34,Veuve,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Drâa-Tafilalet,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Béni Mellal-Khénifra,25-34,Célibataire,Active occupée,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,45-54,Célibataire,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Électronique,Primaire
+Urbain,Oriental,35-44,Mariée,Elève / étudiante,Hors conjugale,Physique,Primaire
+Urbain,Souss-Massa,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Drâa-Tafilalet,35-44,Mariée,Femme au foyer,Hors conjugale,Électronique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,15-24,Divorcée,Femme au foyer,Hors conjugale,Physique,Primaire
+Urbain,Oriental,25-34,Célibataire,Active occupée,Conjugale,Physique,Secondaire collégial
+Urbain,Casablanca-Settat,55-74,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,45-54,Célibataire,Active occupée,Hors conjugale,Physique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,25-34,Célibataire,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Rabat-Salé-Kénitra,35-44,Mariée,Active occupée,Conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Célibataire,Femme au foyer,Conjugale,Électronique,Secondaire collégial
+Urbain,Marrakech-Safi,35-44,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Souss-Massa,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Urbain,Laâyoune-Sakia Al Hamra,45-54,Veuve,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,15-24,Mariée,Elève / étudiante,Conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,45-54,Mariée,Inactive,Conjugale,Psychologique,Secondaire collégial
+Urbain,Marrakech-Safi,55-74,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Drâa-Tafilalet,55-74,Célibataire,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Béni Mellal-Khénifra,15-24,Mariée,Active occupée,Hors conjugale,Psychologique,Supérieur
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Active occupée,Hors conjugale,Psychologique,Supérieur
+Urbain,Casablanca-Settat,45-54,Veuve,Elève / étudiante,Hors conjugale,Électronique,Secondaire collégial
+Urbain,Drâa-Tafilalet,15-24,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Béni Mellal-Khénifra,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Souss-Massa,55-74,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,45-54,Veuve,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Drâa-Tafilalet,15-24,Célibataire,Chômeur,Conjugale,Électronique,Primaire
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Célibataire,Femme au foyer,Hors conjugale,Électronique,Supérieur
+Urbain,Marrakech-Safi,45-54,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Urbain,Fès-Meknès,15-24,Célibataire,Femme au foyer,Conjugale,Sexuelle,Primaire
+Rurale,Oriental,55-74,Célibataire,Active occupée,Conjugale,Psychologique,Supérieur
+Rurale,Béni Mellal-Khénifra,15-24,Mariée,Active occupée,Hors conjugale,Physique,Primaire
+Rurale,Drâa-Tafilalet,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Oriental,45-54,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,35-44,Mariée,Chômeur,Hors conjugale,Physique,Supérieur
+Urbain,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Supérieur
+Rurale,Béni Mellal-Khénifra,15-24,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Marrakech-Safi,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Rabat-Salé-Kénitra,15-24,Divorcée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Béni Mellal-Khénifra,25-34,Célibataire,Active occupée,Hors conjugale,Physique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,45-54,Célibataire,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Drâa-Tafilalet,35-44,Célibataire,Femme au foyer,Hors conjugale,Physique,Primaire
+Urbain,Marrakech-Safi,15-24,Mariée,Inactive,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Veuve,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Casablanca-Settat,45-54,Veuve,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Urbain,Rabat-Salé-Kénitra,35-44,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Fès-Meknès,25-34,Veuve,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,25-34,Mariée,Elève / étudiante,Hors conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,15-24,Mariée,Active occupée,Hors conjugale,Sexuelle,Primaire
+Urbain,Souss-Massa,45-54,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Souss-Massa,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Fès-Meknès,45-54,Célibataire,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Drâa-Tafilalet,45-54,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Rurale,Casablanca-Settat,45-54,Veuve,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Casablanca-Settat,55-74,Mariée,Active occupée,Conjugale,Physique,Primaire
+Urbain,Marrakech-Safi,55-74,Célibataire,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Active occupée,Conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Active occupée,Hors conjugale,Électronique,Secondaire collégial
+Rurale,Casablanca-Settat,15-24,Divorcée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Rurale,Casablanca-Settat,45-54,Veuve,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Béni Mellal-Khénifra,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Marrakech-Safi,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,45-54,Divorcée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,25-34,Mariée,Active occupée,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Marrakech-Safi,45-54,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Marrakech-Safi,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,15-24,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,35-44,Célibataire,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Drâa-Tafilalet,35-44,Mariée,Active occupée,Hors conjugale,Physique,Secondaire collégial
+Rurale,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Casablanca-Settat,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,45-54,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Drâa-Tafilalet,25-34,Mariée,Inactive,Conjugale,Électronique,Sans niveau
+Rurale,Fès-Meknès,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Oriental,55-74,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,35-44,Mariée,Active occupée,Hors conjugale,Physique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Urbain,Souss-Massa,15-24,Mariée,Active occupée,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,15-24,Célibataire,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,15-24,Mariée,Chômeur,Hors conjugale,Physique,Supérieur
+Urbain,Marrakech-Safi,45-54,Mariée,Femme au foyer,Hors conjugale,Électronique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,35-44,Mariée,Chômeur,Conjugale,Psychologique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Active occupée,Hors conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,25-34,Célibataire,Elève / étudiante,Conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,55-74,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Active occupée,Hors conjugale,Psychologique,Supérieur
+Urbain,Béni Mellal-Khénifra,15-24,Veuve,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,25-34,Mariée,Active occupée,Conjugale,Psychologique,Primaire
+Urbain,Fès-Meknès,15-24,Mariée,Active occupée,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,35-44,Mariée,Active occupée,Conjugale,Physique,Primaire
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Supérieur
+Rurale,Fès-Meknès,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Oriental,45-54,Divorcée,Active occupée,Conjugale,Électronique,Sans niveau
+Urbain,Marrakech-Safi,35-44,Mariée,Chômeur,Conjugale,Physique,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Tanger-Tétouan-Al Hoceima,25-34,Veuve,Femme au foyer,Hors conjugale,Électronique,Secondaire collégial
+Urbain,Souss-Massa,25-34,Veuve,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Oriental,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Électronique,Primaire
+Rurale,Marrakech-Safi,35-44,Célibataire,Inactive,Hors conjugale,Sexuelle,Supérieur
+Rurale,Fès-Meknès,45-54,Mariée,Active occupée,Conjugale,Électronique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Active occupée,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Casablanca-Settat,25-34,Veuve,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Fès-Meknès,45-54,Veuve,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Marrakech-Safi,55-74,Veuve,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Électronique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Inactive,Conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,15-24,Mariée,Inactive,Hors conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Fès-Meknès,55-74,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Oriental,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Oriental,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Oriental,15-24,Veuve,Active occupée,Hors conjugale,Physique,Secondaire collégial
+Rurale,Casablanca-Settat,35-44,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Rurale,Guelmim-Oued Noun,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Béni Mellal-Khénifra,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Fès-Meknès,15-24,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,15-24,Mariée,Chômeur,Hors conjugale,Physique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Elève / étudiante,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Elève / étudiante,Conjugale,Physique,Supérieur
+Urbain,Marrakech-Safi,45-54,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Supérieur
+Urbain,Béni Mellal-Khénifra,45-54,Mariée,Chômeur,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Rurale,Casablanca-Settat,25-34,Célibataire,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Fès-Meknès,25-34,Mariée,Elève / étudiante,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Rurale,Fès-Meknès,45-54,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Guelmim-Oued Noun,25-34,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Urbain,Fès-Meknès,45-54,Veuve,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Drâa-Tafilalet,55-74,Mariée,Chômeur,Hors conjugale,Physique,Secondaire collégial
+Urbain,Marrakech-Safi,55-74,Célibataire,Femme au foyer,Conjugale,Électronique,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Célibataire,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Souss-Massa,25-34,Mariée,Active occupée,Conjugale,Physique,Primaire
+Urbain,Fès-Meknès,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Hors conjugale,Électronique,Primaire
+Rurale,Souss-Massa,55-74,Célibataire,Elève / étudiante,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,35-44,Mariée,Active occupée,Hors conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,55-74,Veuve,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,45-54,Célibataire,Active occupée,Hors conjugale,Physique,Sans niveau
+Urbain,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Marrakech-Safi,15-24,Célibataire,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Souss-Massa,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Elève / étudiante,Hors conjugale,Physique,Secondaire collégial
+Urbain,Marrakech-Safi,25-34,Célibataire,Chômeur,Hors conjugale,Psychologique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Souss-Massa,55-74,Mariée,Active occupée,Conjugale,Physique,Primaire
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Souss-Massa,15-24,Célibataire,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Rurale,Fès-Meknès,55-74,Célibataire,Elève / étudiante,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,25-34,Veuve,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Souss-Massa,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Marrakech-Safi,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Divorcée,Femme au foyer,Hors conjugale,Sexuelle,Supérieur
+Urbain,Marrakech-Safi,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Oriental,45-54,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,35-44,Divorcée,Femme au foyer,Conjugale,Électronique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Drâa-Tafilalet,25-34,Célibataire,Active occupée,Hors conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Marrakech-Safi,25-34,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Oriental,45-54,Mariée,Femme au foyer,Conjugale,Physique,Supérieur
+Urbain,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Urbain,Marrakech-Safi,45-54,Mariée,Active occupée,Conjugale,Sexuelle,Sans niveau
+Urbain,Rabat-Salé-Kénitra,25-34,Célibataire,Active occupée,Hors conjugale,Physique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,55-74,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Rurale,Casablanca-Settat,15-24,Veuve,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Active occupée,Conjugale,Sexuelle,Supérieur
+Urbain,Casablanca-Settat,15-24,Célibataire,Femme au foyer,Hors conjugale,Physique,Supérieur
+Rurale,Casablanca-Settat,45-54,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Souss-Massa,15-24,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Urbain,Fès-Meknès,45-54,Veuve,Femme au foyer,Hors conjugale,Électronique,Sans niveau
+Rurale,Oriental,55-74,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Urbain,Rabat-Salé-Kénitra,15-24,Veuve,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Souss-Massa,35-44,Mariée,Femme au foyer,Conjugale,Physique,Supérieur
+Urbain,Béni Mellal-Khénifra,35-44,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Urbain,Béni Mellal-Khénifra,45-54,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,35-44,Célibataire,Active occupée,Conjugale,Sexuelle,Secondaire collégial
+Rurale,Marrakech-Safi,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Rurale,Souss-Massa,35-44,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,15-24,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Casablanca-Settat,35-44,Mariée,Femme au foyer,Hors conjugale,Électronique,Sans niveau
+Urbain,Casablanca-Settat,25-34,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Béni Mellal-Khénifra,45-54,Célibataire,Active occupée,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Active occupée,Conjugale,Psychologique,Primaire
+Rurale,Oriental,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,15-24,Veuve,Inactive,Hors conjugale,Psychologique,Primaire
+Rurale,Oriental,25-34,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Primaire
+Urbain,Drâa-Tafilalet,25-34,Mariée,Inactive,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,55-74,Mariée,Elève / étudiante,Hors conjugale,Électronique,Sans niveau
+Rurale,Casablanca-Settat,25-34,Veuve,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Marrakech-Safi,15-24,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,35-44,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Primaire
+Urbain,Drâa-Tafilalet,35-44,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Fès-Meknès,35-44,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,35-44,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Rurale,Guelmim-Oued Noun,45-54,Mariée,Active occupée,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Casablanca-Settat,45-54,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Primaire
+Rurale,Marrakech-Safi,35-44,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Marrakech-Safi,45-54,Mariée,Active occupée,Conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Rurale,Fès-Meknès,35-44,Mariée,Elève / étudiante,Conjugale,Psychologique,Primaire
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Souss-Massa,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,15-24,Célibataire,Elève / étudiante,Conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,45-54,Mariée,Active occupée,Hors conjugale,Sexuelle,Primaire
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Marrakech-Safi,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,25-34,Veuve,Elève / étudiante,Conjugale,Psychologique,Supérieur
+Rurale,Marrakech-Safi,25-34,Veuve,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,45-54,Veuve,Femme au foyer,Conjugale,Sexuelle,Primaire
+Rurale,Marrakech-Safi,15-24,Veuve,Elève / étudiante,Conjugale,Psychologique,Primaire
+Urbain,Oriental,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Urbain,Marrakech-Safi,55-74,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Conjugale,Physique,Supérieur
+Rurale,Marrakech-Safi,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,35-44,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Oriental,15-24,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Rurale,Oriental,35-44,Célibataire,Elève / étudiante,Conjugale,Physique,Primaire
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Marrakech-Safi,25-34,Mariée,Active occupée,Conjugale,Sexuelle,Sans niveau
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,15-24,Célibataire,Active occupée,Hors conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Célibataire,Active occupée,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Supérieur
+Urbain,Souss-Massa,15-24,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Urbain,Souss-Massa,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Oriental,45-54,Mariée,Femme au foyer,Conjugale,Physique,Supérieur
+Urbain,Casablanca-Settat,35-44,Divorcée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Rurale,Casablanca-Settat,45-54,Célibataire,Active occupée,Hors conjugale,Sexuelle,Primaire
+Urbain,Tanger-Tétouan-Al Hoceima,55-74,Mariée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Rurale,Oriental,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,45-54,Veuve,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Drâa-Tafilalet,45-54,Mariée,Elève / étudiante,Conjugale,Physique,Secondaire collégial
+Rurale,Fès-Meknès,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Active occupée,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Fès-Meknès,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Urbain,Fès-Meknès,45-54,Veuve,Femme au foyer,Hors conjugale,Électronique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,15-24,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Marrakech-Safi,15-24,Veuve,Femme au foyer,Conjugale,Physique,Primaire
+Rurale,Fès-Meknès,15-24,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Fès-Meknès,15-24,Mariée,Active occupée,Hors conjugale,Sexuelle,Supérieur
+Urbain,Casablanca-Settat,25-34,Mariée,Elève / étudiante,Conjugale,Physique,Secondaire collégial
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Souss-Massa,15-24,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Fès-Meknès,25-34,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,15-24,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Rurale,Casablanca-Settat,25-34,Divorcée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Supérieur
+Urbain,Oriental,45-54,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Urbain,Casablanca-Settat,15-24,Divorcée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Souss-Massa,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Souss-Massa,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,25-34,Célibataire,Active occupée,Conjugale,Physique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,15-24,Veuve,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,35-44,Mariée,Active occupée,Conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,45-54,Célibataire,Femme au foyer,Conjugale,Électronique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,35-44,Célibataire,Active occupée,Conjugale,Psychologique,Primaire
+Rurale,Fès-Meknès,15-24,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Urbain,Marrakech-Safi,15-24,Veuve,Active occupée,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Rabat-Salé-Kénitra,15-24,Veuve,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Urbain,Béni Mellal-Khénifra,15-24,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,45-54,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Urbain,Tanger-Tétouan-Al Hoceima,35-44,Mariée,Active occupée,Hors conjugale,Électronique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,25-34,Mariée,Active occupée,Hors conjugale,Physique,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,15-24,Célibataire,Active occupée,Conjugale,Sexuelle,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Inactive,Hors conjugale,Physique,Secondaire collégial
+Urbain,Marrakech-Safi,35-44,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,45-54,Célibataire,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Célibataire,Active occupée,Conjugale,Psychologique,Supérieur
+Urbain,Fès-Meknès,35-44,Mariée,Elève / étudiante,Conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,25-34,Veuve,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Marrakech-Safi,45-54,Mariée,Inactive,Conjugale,Sexuelle,Primaire
+Urbain,Souss-Massa,15-24,Mariée,Femme au foyer,Hors conjugale,Physique,Supérieur
+Urbain,Marrakech-Safi,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Drâa-Tafilalet,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Casablanca-Settat,35-44,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,45-54,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Marrakech-Safi,45-54,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Sexuelle,Supérieur
+Rurale,Fès-Meknès,35-44,Célibataire,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Drâa-Tafilalet,45-54,Mariée,Active occupée,Hors conjugale,Physique,Primaire
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Hors conjugale,Électronique,Secondaire collégial
+Urbain,Casablanca-Settat,55-74,Mariée,Active occupée,Hors conjugale,Physique,Supérieur
+Urbain,Fès-Meknès,45-54,Mariée,Active occupée,Conjugale,Sexuelle,Primaire
+Rurale,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Souss-Massa,35-44,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Rurale,Béni Mellal-Khénifra,45-54,Mariée,Inactive,Conjugale,Psychologique,Primaire
+Urbain,Oriental,55-74,Mariée,Inactive,Conjugale,Psychologique,Secondaire collégial
+Rurale,Fès-Meknès,25-34,Mariée,Active occupée,Conjugale,Sexuelle,Primaire
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Marrakech-Safi,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,25-34,Divorcée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,45-54,Célibataire,Femme au foyer,Conjugale,Physique,Primaire
+Rurale,Rabat-Salé-Kénitra,25-34,Célibataire,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Rurale,Oriental,15-24,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,55-74,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Rurale,Marrakech-Safi,25-34,Divorcée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Divorcée,Elève / étudiante,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,25-34,Mariée,Elève / étudiante,Hors conjugale,Sexuelle,Primaire
+Urbain,Fès-Meknès,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Rurale,Fès-Meknès,55-74,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Hors conjugale,Électronique,Primaire
+Urbain,Casablanca-Settat,35-44,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Rurale,Fès-Meknès,25-34,Veuve,Active occupée,Conjugale,Psychologique,Sans niveau
+Rurale,Fès-Meknès,45-54,Célibataire,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Rurale,Marrakech-Safi,35-44,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Casablanca-Settat,55-74,Célibataire,Active occupée,Hors conjugale,Psychologique,Primaire
+Urbain,Oriental,35-44,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,55-74,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Divorcée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Oriental,25-34,Mariée,Active occupée,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,45-54,Célibataire,Elève / étudiante,Conjugale,Sexuelle,Primaire
+Rurale,Casablanca-Settat,25-34,Veuve,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Marrakech-Safi,15-24,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Béni Mellal-Khénifra,35-44,Célibataire,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Fès-Meknès,45-54,Veuve,Active occupée,Conjugale,Sexuelle,Sans niveau
+Urbain,Souss-Massa,25-34,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Rurale,Souss-Massa,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Casablanca-Settat,35-44,Mariée,Chômeur,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Rurale,Marrakech-Safi,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,45-54,Célibataire,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Oriental,55-74,Célibataire,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Fès-Meknès,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Divorcée,Femme au foyer,Hors conjugale,Sexuelle,Primaire
+Urbain,Casablanca-Settat,15-24,Mariée,Active occupée,Hors conjugale,Physique,Secondaire collégial
+Urbain,Souss-Massa,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,55-74,Divorcée,Elève / étudiante,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Drâa-Tafilalet,35-44,Célibataire,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,15-24,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Urbain,Oriental,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Guelmim-Oued Noun,15-24,Célibataire,Inactive,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Souss-Massa,35-44,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Laâyoune-Sakia Al Hamra,35-44,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,35-44,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Primaire
+Rurale,Marrakech-Safi,55-74,Mariée,Active occupée,Hors conjugale,Physique,Sans niveau
+Rurale,Béni Mellal-Khénifra,45-54,Célibataire,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Souss-Massa,45-54,Célibataire,Elève / étudiante,Hors conjugale,Psychologique,Primaire
+Urbain,Guelmim-Oued Noun,55-74,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,55-74,Célibataire,Active occupée,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,15-24,Célibataire,Active occupée,Hors conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,35-44,Célibataire,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Urbain,Oriental,35-44,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Électronique,Primaire
+Urbain,Souss-Massa,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,55-74,Divorcée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Marrakech-Safi,55-74,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Drâa-Tafilalet,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,35-44,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Chômeur,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,45-54,Mariée,Inactive,Conjugale,Électronique,Primaire
+Urbain,Casablanca-Settat,55-74,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Fès-Meknès,15-24,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Oriental,25-34,Mariée,Femme au foyer,Hors conjugale,Électronique,Sans niveau
+Rurale,Oriental,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Marrakech-Safi,15-24,Mariée,Active occupée,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Drâa-Tafilalet,15-24,Mariée,Active occupée,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Souss-Massa,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,35-44,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Drâa-Tafilalet,15-24,Mariée,Active occupée,Hors conjugale,Psychologique,Sans niveau
+Rurale,Marrakech-Safi,25-34,Veuve,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Rurale,Oriental,35-44,Mariée,Elève / étudiante,Conjugale,Sexuelle,Sans niveau
+Rurale,Fès-Meknès,25-34,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Tanger-Tétouan-Al Hoceima,25-34,Divorcée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,55-74,Divorcée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,25-34,Célibataire,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Mariée,Active occupée,Hors conjugale,Électronique,Supérieur
+Urbain,Souss-Massa,45-54,Divorcée,Active occupée,Conjugale,Psychologique,Sans niveau
+Rurale,Marrakech-Safi,35-44,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Oriental,45-54,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Marrakech-Safi,45-54,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Rurale,Marrakech-Safi,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Fès-Meknès,25-34,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,55-74,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Souss-Massa,45-54,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,35-44,Mariée,Elève / étudiante,Conjugale,Physique,Supérieur
+Urbain,Béni Mellal-Khénifra,35-44,Mariée,Active occupée,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Souss-Massa,45-54,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Active occupée,Conjugale,Sexuelle,Primaire
+Rurale,Marrakech-Safi,35-44,Mariée,Chômeur,Conjugale,Psychologique,Primaire
+Rurale,Fès-Meknès,35-44,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Fès-Meknès,15-24,Mariée,Femme au foyer,Conjugale,Électronique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Rurale,Casablanca-Settat,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Souss-Massa,45-54,Mariée,Active occupée,Conjugale,Sexuelle,Sans niveau
+Urbain,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Casablanca-Settat,15-24,Célibataire,Elève / étudiante,Conjugale,Psychologique,Primaire
+Rurale,Tanger-Tétouan-Al Hoceima,15-24,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Drâa-Tafilalet,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Béni Mellal-Khénifra,35-44,Mariée,Active occupée,Conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Veuve,Active occupée,Hors conjugale,Sexuelle,Primaire
+Urbain,Fès-Meknès,25-34,Veuve,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Célibataire,Elève / étudiante,Hors conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,55-74,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,35-44,Mariée,Active occupée,Conjugale,Sexuelle,Sans niveau
+Urbain,Fès-Meknès,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,35-44,Mariée,Active occupée,Conjugale,Physique,Sans niveau
+Urbain,Drâa-Tafilalet,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Drâa-Tafilalet,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Hors conjugale,Électronique,Secondaire collégial
+Rurale,Béni Mellal-Khénifra,35-44,Célibataire,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Marrakech-Safi,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Béni Mellal-Khénifra,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,45-54,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Urbain,Souss-Massa,15-24,Mariée,Inactive,Hors conjugale,Psychologique,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,55-74,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Rabat-Salé-Kénitra,25-34,Mariée,Active occupée,Conjugale,Physique,Sans niveau
+Urbain,Drâa-Tafilalet,45-54,Célibataire,Active occupée,Hors conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Veuve,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Rurale,Souss-Massa,25-34,Mariée,Active occupée,Conjugale,Électronique,Primaire
+Urbain,Guelmim-Oued Noun,45-54,Mariée,Femme au foyer,Conjugale,Électronique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,15-24,Divorcée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Oriental,45-54,Mariée,Active occupée,Conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,45-54,Mariée,Inactive,Conjugale,Électronique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,55-74,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,15-24,Mariée,Active occupée,Conjugale,Physique,Supérieur
+Rurale,Tanger-Tétouan-Al Hoceima,25-34,Célibataire,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Souss-Massa,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Marrakech-Safi,55-74,Célibataire,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Guelmim-Oued Noun,25-34,Mariée,Inactive,Conjugale,Psychologique,Primaire
+Urbain,Souss-Massa,15-24,Mariée,Inactive,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,35-44,Célibataire,Elève / étudiante,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Casablanca-Settat,25-34,Célibataire,Active occupée,Hors conjugale,Psychologique,Sans niveau
+Urbain,Béni Mellal-Khénifra,45-54,Veuve,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Hors conjugale,Électronique,Secondaire collégial
+Urbain,Fès-Meknès,15-24,Mariée,Elève / étudiante,Hors conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Elève / étudiante,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,35-44,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Fès-Meknès,35-44,Mariée,Active occupée,Conjugale,Électronique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Fès-Meknès,45-54,Mariée,Active occupée,Conjugale,Psychologique,Supérieur
+Urbain,Souss-Massa,45-54,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,55-74,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Rurale,Oriental,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Urbain,Marrakech-Safi,55-74,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Rurale,Fès-Meknès,15-24,Mariée,Active occupée,Conjugale,Physique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Rurale,Fès-Meknès,45-54,Célibataire,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,15-24,Veuve,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,35-44,Mariée,Elève / étudiante,Conjugale,Sexuelle,Supérieur
+Urbain,Casablanca-Settat,35-44,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Inactive,Hors conjugale,Psychologique,Primaire
+Rurale,Oriental,45-54,Mariée,Active occupée,Conjugale,Physique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,15-24,Célibataire,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,15-24,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Fès-Meknès,45-54,Célibataire,Femme au foyer,Hors conjugale,Électronique,Sans niveau
+Urbain,Fès-Meknès,25-34,Célibataire,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,15-24,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,35-44,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Souss-Massa,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Marrakech-Safi,35-44,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Rurale,Fès-Meknès,35-44,Mariée,Active occupée,Hors conjugale,Physique,Primaire
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,45-54,Divorcée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Rurale,Drâa-Tafilalet,35-44,Divorcée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Active occupée,Conjugale,Psychologique,Supérieur
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Elève / étudiante,Conjugale,Physique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Rurale,Fès-Meknès,25-34,Mariée,Elève / étudiante,Hors conjugale,Physique,Primaire
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Casablanca-Settat,25-34,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Veuve,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Casablanca-Settat,25-34,Veuve,Active occupée,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Supérieur
+Urbain,Fès-Meknès,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Casablanca-Settat,35-44,Mariée,Inactive,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Drâa-Tafilalet,45-54,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Urbain,Béni Mellal-Khénifra,35-44,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Rurale,Fès-Meknès,15-24,Mariée,Chômeur,Hors conjugale,Psychologique,Primaire
+Urbain,Fès-Meknès,45-54,Mariée,Active occupée,Conjugale,Psychologique,Supérieur
+Urbain,Fès-Meknès,25-34,Mariée,Inactive,Hors conjugale,Physique,Primaire
+Urbain,Fès-Meknès,15-24,Célibataire,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Casablanca-Settat,55-74,Divorcée,Elève / étudiante,Hors conjugale,Psychologique,Primaire
+Rurale,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Urbain,Béni Mellal-Khénifra,45-54,Veuve,Femme au foyer,Conjugale,Sexuelle,Primaire
+Rurale,Casablanca-Settat,35-44,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Rurale,Fès-Meknès,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Marrakech-Safi,25-34,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,15-24,Mariée,Active occupée,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Oriental,15-24,Mariée,Inactive,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,15-24,Mariée,Inactive,Hors conjugale,Sexuelle,Supérieur
+Urbain,Souss-Massa,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Divorcée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Urbain,Souss-Massa,55-74,Veuve,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,15-24,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Oriental,25-34,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Femme au foyer,Hors conjugale,Électronique,Sans niveau
+Urbain,Casablanca-Settat,25-34,Mariée,Femme au foyer,Hors conjugale,Électronique,Primaire
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Souss-Massa,35-44,Veuve,Femme au foyer,Hors conjugale,Sexuelle,Primaire
+Urbain,Casablanca-Settat,45-54,Célibataire,Femme au foyer,Conjugale,Physique,Primaire
+Rurale,Souss-Massa,15-24,Veuve,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Souss-Massa,25-34,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Drâa-Tafilalet,15-24,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Oriental,45-54,Mariée,Femme au foyer,Conjugale,Électronique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,35-44,Mariée,Femme au foyer,Conjugale,Sexuelle,Supérieur
+Rurale,Rabat-Salé-Kénitra,15-24,Veuve,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Marrakech-Safi,35-44,Célibataire,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,15-24,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Fès-Meknès,15-24,Mariée,Active occupée,Conjugale,Psychologique,Supérieur
+Rurale,Fès-Meknès,45-54,Mariée,Inactive,Conjugale,Psychologique,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,55-74,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Rurale,Marrakech-Safi,15-24,Mariée,Chômeur,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Béni Mellal-Khénifra,15-24,Célibataire,Femme au foyer,Conjugale,Sexuelle,Primaire
+Urbain,Béni Mellal-Khénifra,35-44,Mariée,Elève / étudiante,Conjugale,Sexuelle,Sans niveau
+Rurale,Béni Mellal-Khénifra,25-34,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,35-44,Divorcée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,35-44,Veuve,Inactive,Hors conjugale,Sexuelle,Supérieur
+Rurale,Casablanca-Settat,45-54,Veuve,Elève / étudiante,Conjugale,Physique,Primaire
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Veuve,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Casablanca-Settat,15-24,Célibataire,Femme au foyer,Hors conjugale,Physique,Primaire
+Rurale,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Inactive,Hors conjugale,Psychologique,Supérieur
+Rurale,Béni Mellal-Khénifra,55-74,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Oriental,25-34,Mariée,Femme au foyer,Hors conjugale,Électronique,Secondaire collégial
+Urbain,Marrakech-Safi,35-44,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Rurale,Souss-Massa,55-74,Mariée,Active occupée,Conjugale,Sexuelle,Sans niveau
+Rurale,Fès-Meknès,35-44,Mariée,Femme au foyer,Conjugale,Électronique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Elève / étudiante,Conjugale,Psychologique,Sans niveau
+Rurale,Souss-Massa,45-54,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Rurale,Oriental,45-54,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Casablanca-Settat,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Souss-Massa,45-54,Célibataire,Active occupée,Conjugale,Psychologique,Supérieur
+Urbain,Fès-Meknès,25-34,Mariée,Active occupée,Conjugale,Physique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,55-74,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Fès-Meknès,15-24,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Marrakech-Safi,35-44,Célibataire,Femme au foyer,Hors conjugale,Électronique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,15-24,Célibataire,Femme au foyer,Hors conjugale,Sexuelle,Primaire
+Rurale,Guelmim-Oued Noun,15-24,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Oriental,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Casablanca-Settat,15-24,Célibataire,Chômeur,Hors conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,35-44,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Marrakech-Safi,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Drâa-Tafilalet,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Souss-Massa,45-54,Mariée,Active occupée,Conjugale,Sexuelle,Supérieur
+Urbain,Tanger-Tétouan-Al Hoceima,15-24,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Marrakech-Safi,35-44,Célibataire,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,55-74,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Oriental,15-24,Mariée,Active occupée,Hors conjugale,Psychologique,Primaire
+Urbain,Béni Mellal-Khénifra,25-34,Mariée,Chômeur,Hors conjugale,Psychologique,Primaire
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Urbain,Drâa-Tafilalet,45-54,Mariée,Inactive,Hors conjugale,Physique,Primaire
+Urbain,Casablanca-Settat,45-54,Mariée,Active occupée,Conjugale,Électronique,Primaire
+Urbain,Béni Mellal-Khénifra,25-34,Divorcée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Béni Mellal-Khénifra,15-24,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Chômeur,Conjugale,Sexuelle,Primaire
+Rurale,Casablanca-Settat,25-34,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Béni Mellal-Khénifra,25-34,Mariée,Chômeur,Conjugale,Sexuelle,Supérieur
+Urbain,Souss-Massa,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,15-24,Célibataire,Femme au foyer,Conjugale,Électronique,Supérieur
+Urbain,Casablanca-Settat,35-44,Mariée,Inactive,Conjugale,Sexuelle,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Fès-Meknès,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Fès-Meknès,35-44,Mariée,Active occupée,Conjugale,Sexuelle,Primaire
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Drâa-Tafilalet,25-34,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Active occupée,Conjugale,Psychologique,Supérieur
+Urbain,Marrakech-Safi,15-24,Veuve,Active occupée,Conjugale,Sexuelle,Sans niveau
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Marrakech-Safi,45-54,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Souss-Massa,45-54,Mariée,Active occupée,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,45-54,Célibataire,Active occupée,Conjugale,Électronique,Sans niveau
+Urbain,Guelmim-Oued Noun,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Rurale,Fès-Meknès,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Tanger-Tétouan-Al Hoceima,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Souss-Massa,25-34,Mariée,Femme au foyer,Hors conjugale,Physique,Supérieur
+Urbain,Marrakech-Safi,15-24,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Rurale,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,55-74,Célibataire,Elève / étudiante,Conjugale,Électronique,Secondaire collégial
+Urbain,Souss-Massa,45-54,Mariée,Elève / étudiante,Conjugale,Physique,Primaire
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Casablanca-Settat,55-74,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Drâa-Tafilalet,55-74,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Laâyoune-Sakia Al Hamra,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Rabat-Salé-Kénitra,45-54,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,35-44,Mariée,Femme au foyer,Conjugale,Physique,Supérieur
+Urbain,Oriental,55-74,Mariée,Active occupée,Hors conjugale,Sexuelle,Supérieur
+Urbain,Rabat-Salé-Kénitra,45-54,Veuve,Inactive,Conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Souss-Massa,45-54,Célibataire,Femme au foyer,Conjugale,Physique,Supérieur
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Oriental,45-54,Veuve,Chômeur,Conjugale,Psychologique,Secondaire collégial
+Urbain,Marrakech-Safi,25-34,Mariée,Femme au foyer,Conjugale,Électronique,Supérieur
+Rurale,Fès-Meknès,45-54,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Drâa-Tafilalet,25-34,Mariée,Active occupée,Hors conjugale,Physique,Secondaire collégial
+Rurale,Marrakech-Safi,45-54,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Souss-Massa,45-54,Mariée,Femme au foyer,Hors conjugale,Électronique,Secondaire collégial
+Rurale,Tanger-Tétouan-Al Hoceima,35-44,Veuve,Active occupée,Hors conjugale,Électronique,Primaire
+Rurale,Tanger-Tétouan-Al Hoceima,55-74,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,45-54,Célibataire,Inactive,Hors conjugale,Physique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Elève / étudiante,Conjugale,Psychologique,Secondaire collégial
+Rurale,Tanger-Tétouan-Al Hoceima,35-44,Veuve,Inactive,Conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Rurale,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Oriental,35-44,Divorcée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,35-44,Mariée,Active occupée,Hors conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,25-34,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,55-74,Veuve,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,25-34,Célibataire,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Fès-Meknès,45-54,Célibataire,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Drâa-Tafilalet,45-54,Veuve,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Souss-Massa,45-54,Veuve,Elève / étudiante,Conjugale,Physique,Sans niveau
+Urbain,Marrakech-Safi,45-54,Mariée,Active occupée,Conjugale,Physique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,35-44,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Rabat-Salé-Kénitra,15-24,Veuve,Elève / étudiante,Hors conjugale,Sexuelle,Primaire
+Urbain,Fès-Meknès,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Fès-Meknès,35-44,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,15-24,Mariée,Inactive,Conjugale,Électronique,Sans niveau
+Urbain,Marrakech-Safi,45-54,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Rurale,Casablanca-Settat,45-54,Célibataire,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Souss-Massa,25-34,Mariée,Active occupée,Hors conjugale,Psychologique,Primaire
+Urbain,Souss-Massa,45-54,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Drâa-Tafilalet,15-24,Mariée,Active occupée,Conjugale,Sexuelle,Sans niveau
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Fès-Meknès,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Souss-Massa,45-54,Veuve,Femme au foyer,Conjugale,Électronique,Sans niveau
+Urbain,Fès-Meknès,15-24,Divorcée,Chômeur,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Rabat-Salé-Kénitra,45-54,Célibataire,Femme au foyer,Hors conjugale,Physique,Supérieur
+Rurale,Oriental,15-24,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Rurale,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Supérieur
+Urbain,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Hors conjugale,Physique,Supérieur
+Urbain,Casablanca-Settat,25-34,Mariée,Active occupée,Hors conjugale,Physique,Sans niveau
+Rurale,Fès-Meknès,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Marrakech-Safi,45-54,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Souss-Massa,15-24,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,55-74,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Rurale,Guelmim-Oued Noun,35-44,Mariée,Inactive,Hors conjugale,Physique,Secondaire collégial
+Urbain,Oriental,25-34,Divorcée,Elève / étudiante,Conjugale,Sexuelle,Supérieur
+Urbain,Marrakech-Safi,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Rurale,Marrakech-Safi,35-44,Veuve,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Urbain,Béni Mellal-Khénifra,15-24,Célibataire,Inactive,Conjugale,Physique,Sans niveau
+Rurale,Marrakech-Safi,35-44,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Marrakech-Safi,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Divorcée,Femme au foyer,Conjugale,Physique,Supérieur
+Rurale,Fès-Meknès,45-54,Mariée,Elève / étudiante,Hors conjugale,Électronique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Rurale,Souss-Massa,25-34,Célibataire,Active occupée,Conjugale,Sexuelle,Sans niveau
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Supérieur
+Rurale,Oriental,45-54,Célibataire,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,25-34,Veuve,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Rurale,Casablanca-Settat,15-24,Mariée,Chômeur,Conjugale,Psychologique,Sans niveau
+Urbain,Béni Mellal-Khénifra,45-54,Célibataire,Elève / étudiante,Conjugale,Psychologique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,55-74,Mariée,Active occupée,Conjugale,Psychologique,Primaire
+Rurale,Drâa-Tafilalet,45-54,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Rurale,Tanger-Tétouan-Al Hoceima,25-34,Mariée,Elève / étudiante,Hors conjugale,Psychologique,Sans niveau
+Rurale,Marrakech-Safi,55-74,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Primaire
+Urbain,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Rurale,Casablanca-Settat,35-44,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Marrakech-Safi,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Rurale,Casablanca-Settat,35-44,Célibataire,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Marrakech-Safi,15-24,Mariée,Inactive,Hors conjugale,Physique,Primaire
+Rurale,Fès-Meknès,15-24,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Primaire
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Urbain,Marrakech-Safi,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Tanger-Tétouan-Al Hoceima,15-24,Veuve,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Marrakech-Safi,25-34,Célibataire,Femme au foyer,Conjugale,Physique,Supérieur
+Urbain,Oriental,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Guelmim-Oued Noun,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Supérieur
+Rurale,Souss-Massa,45-54,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Inactive,Conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,45-54,Veuve,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,55-74,Mariée,Elève / étudiante,Conjugale,Physique,Sans niveau
+Urbain,Béni Mellal-Khénifra,55-74,Veuve,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Sans niveau
+Urbain,Fès-Meknès,35-44,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,35-44,Mariée,Active occupée,Conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,15-24,Mariée,Active occupée,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,55-74,Mariée,Active occupée,Conjugale,Psychologique,Primaire
+Urbain,Souss-Massa,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Drâa-Tafilalet,35-44,Veuve,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Souss-Massa,15-24,Veuve,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Rurale,Fès-Meknès,45-54,Célibataire,Active occupée,Conjugale,Psychologique,Primaire
+Urbain,Casablanca-Settat,45-54,Mariée,Active occupée,Hors conjugale,Physique,Secondaire collégial
+Urbain,Marrakech-Safi,45-54,Mariée,Femme au foyer,Conjugale,Physique,Sans niveau
+Rurale,Rabat-Salé-Kénitra,15-24,Veuve,Chômeur,Hors conjugale,Physique,Sans niveau
+Urbain,Souss-Massa,35-44,Mariée,Active occupée,Conjugale,Sexuelle,Secondaire collégial
+Rurale,Marrakech-Safi,15-24,Mariée,Chômeur,Conjugale,Psychologique,Supérieur
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Fès-Meknès,25-34,Mariée,Inactive,Conjugale,Physique,Sans niveau
+Urbain,Casablanca-Settat,15-24,Veuve,Femme au foyer,Conjugale,Physique,Sans niveau
+Urbain,Marrakech-Safi,35-44,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,15-24,Mariée,Femme au foyer,Conjugale,Physique,Primaire
+Urbain,Fès-Meknès,35-44,Divorcée,Inactive,Conjugale,Psychologique,Sans niveau
+Urbain,Tanger-Tétouan-Al Hoceima,35-44,Mariée,Active occupée,Hors conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Électronique,Primaire
+Urbain,Rabat-Salé-Kénitra,35-44,Divorcée,Inactive,Conjugale,Psychologique,Sans niveau
+Rurale,Guelmim-Oued Noun,15-24,Célibataire,Active occupée,Hors conjugale,Physique,Supérieur
+Urbain,Tanger-Tétouan-Al Hoceima,35-44,Mariée,Inactive,Conjugale,Psychologique,Primaire
+Urbain,Fès-Meknès,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,15-24,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Urbain,Marrakech-Safi,25-34,Mariée,Inactive,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Rurale,Béni Mellal-Khénifra,55-74,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,45-54,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Rurale,Tanger-Tétouan-Al Hoceima,15-24,Mariée,Femme au foyer,Hors conjugale,Sexuelle,Secondaire collégial
+Urbain,Drâa-Tafilalet,15-24,Mariée,Elève / étudiante,Hors conjugale,Psychologique,Sans niveau
+Urbain,Drâa-Tafilalet,45-54,Mariée,Femme au foyer,Hors conjugale,Physique,Sans niveau
+Rurale,Ed Dakhla-Oued Ed Dahab,45-54,Mariée,Femme au foyer,Hors conjugale,Électronique,Primaire
+Rurale,Fès-Meknès,55-74,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Rurale,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Urbain,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Physique,Secondaire collégial
+Rurale,Casablanca-Settat,55-74,Mariée,Active occupée,Conjugale,Physique,Secondaire collégial
+Urbain,Guelmim-Oued Noun,15-24,Mariée,Inactive,Hors conjugale,Physique,Primaire
+Rurale,Souss-Massa,15-24,Célibataire,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Active occupée,Conjugale,Psychologique,Primaire
+Urbain,Oriental,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,25-34,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,35-44,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Urbain,Guelmim-Oued Noun,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Rurale,Casablanca-Settat,35-44,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Rurale,Oriental,45-54,Mariée,Elève / étudiante,Hors conjugale,Électronique,Secondaire collégial
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Urbain,Fès-Meknès,25-34,Mariée,Femme au foyer,Conjugale,Sexuelle,Primaire
+Rurale,Béni Mellal-Khénifra,45-54,Célibataire,Femme au foyer,Conjugale,Physique,Supérieur
+Urbain,Rabat-Salé-Kénitra,45-54,Divorcée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,25-34,Mariée,Femme au foyer,Hors conjugale,Physique,Primaire
+Urbain,Casablanca-Settat,15-24,Divorcée,Femme au foyer,Hors conjugale,Physique,Secondaire collégial
+Urbain,Fès-Meknès,35-44,Veuve,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Célibataire,Femme au foyer,Conjugale,Physique,Sans niveau
+Rurale,Béni Mellal-Khénifra,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
+Urbain,Rabat-Salé-Kénitra,15-24,Célibataire,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Électronique,Primaire
+Urbain,Casablanca-Settat,25-34,Célibataire,Active occupée,Hors conjugale,Physique,Supérieur
+Urbain,Rabat-Salé-Kénitra,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Sans niveau
+Urbain,Rabat-Salé-Kénitra,35-44,Mariée,Femme au foyer,Conjugale,Psychologique,Sans niveau
+Rurale,Casablanca-Settat,45-54,Mariée,Active occupée,Conjugale,Psychologique,Primaire
+Urbain,Tanger-Tétouan-Al Hoceima,45-54,Mariée,Inactive,Conjugale,Psychologique,Secondaire collégial
+Urbain,Casablanca-Settat,25-34,Célibataire,Femme au foyer,Conjugale,Physique,Primaire
+Rurale,Marrakech-Safi,15-24,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Hors conjugale,Psychologique,Secondaire collégial
+Rurale,Casablanca-Settat,55-74,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Rurale,Drâa-Tafilalet,55-74,Mariée,Femme au foyer,Conjugale,Sexuelle,Secondaire collégial
+Rurale,Casablanca-Settat,45-54,Mariée,Femme au foyer,Conjugale,Électronique,Primaire
+Rurale,Souss-Massa,45-54,Divorcée,Active occupée,Conjugale,Sexuelle,Primaire
+Urbain,Souss-Massa,55-74,Veuve,Inactive,Conjugale,Physique,Secondaire collégial
+Urbain,Fès-Meknès,45-54,Célibataire,Femme au foyer,Conjugale,Sexuelle,Sans niveau
+Rurale,Oriental,45-54,Célibataire,Femme au foyer,Hors conjugale,Psychologique,Supérieur
+Urbain,Guelmim-Oued Noun,45-54,Célibataire,Femme au foyer,Hors conjugale,Électronique,Secondaire collégial
+Urbain,Laâyoune-Sakia Al Hamra,25-34,Mariée,Active occupée,Hors conjugale,Psychologique,Secondaire collégial
+Urbain,Oriental,15-24,Mariée,Active occupée,Conjugale,Psychologique,Supérieur
+Urbain,Casablanca-Settat,55-74,Divorcée,Active occupée,Hors conjugale,Physique,Secondaire collégial
+Urbain,Fès-Meknès,25-34,Mariée,Active occupée,Conjugale,Psychologique,Secondaire collégial
+Rurale,Béni Mellal-Khénifra,25-34,Mariée,Femme au foyer,Hors conjugale,Psychologique,Primaire
+Rurale,Fès-Meknès,15-24,Mariée,Femme au foyer,Conjugale,Psychologique,Secondaire collégial
+Urbain,Fès-Meknès,45-54,Mariée,Femme au foyer,Conjugale,Psychologique,Primaire
