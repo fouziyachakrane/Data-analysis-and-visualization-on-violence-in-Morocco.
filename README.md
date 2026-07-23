@@ -28,7 +28,6 @@
 
 </div>
 
-> 💡 *Astuce : ajoute ici une capture d'écran de chaque module (carte, graphiques, vue interactive) pour rendre le README encore plus vivant — glisse simplement les images dans un dossier `assets/` et référence-les avec `![Carte](assets/carte.png)`.*
 
 ---
 
